@@ -1,2 +1,2 @@
 # alurabook
-Projeto feito no curso de responsividade da alura
+Link para o portal: https://viniciusr1993.github.io/alurabook/
